@@ -1,0 +1,22 @@
+.box-style{
+    border:1px solid lightgray;
+   
+    border-radius: 0.15rem;
+    width:600px;
+    
+}
+.custom-padding{
+    padding-right: 1.8rem;
+}
+.edit-title{
+    text-decoration: none;
+    background-color: blue;
+    height: 4.4rem;
+    opacity: .6;
+    color: white;
+    padding: 1.2rem;
+    margin: 0;
+}
+.form{
+    padding: 1.8rem;
+}
